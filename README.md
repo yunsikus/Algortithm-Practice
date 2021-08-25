@@ -1,6 +1,6 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/AlgorithmPeeps/studyNote)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AlgorithmPeeps/studyNote)
-![GitHub top language](https://img.shields.io/github/languages/top/AlgorithmPeeps/studyNote?color=red&logo=Python)
+![GitHub last commit](https://img.shields.io/github/last-commit/yunsikus/Algortithm-Practice)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/yunsikus/Algortithm-Practice)
+![GitHub top language](https://img.shields.io/github/languages/top/yunsikus/Algortithm-Practice?color=red&logo=Python)
 
 🔍 각 문제를 클릭하면 풀이 및 코드를 볼 수 있습니다.  
 ⌨️ `Ctrl + F` 를 통해 문제를 찾을 수 있습니다.
