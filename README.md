@@ -92,6 +92,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 가로등](https://yunsikus.github.io/algorithm/2021/03/13/%EA%B0%80%EB%A1%9C%EB%93%B1/) |      |
+| 02  |     | [Programmers 입국심사](https://yunsikus.github.io/algorithm/2021/08/23/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) |      |
 
 
 #### Graph
