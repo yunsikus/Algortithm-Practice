@@ -94,6 +94,7 @@
 | 01  |     | [Programmers 가로등](https://yunsikus.github.io/algorithm/2021/03/13/%EA%B0%80%EB%A1%9C%EB%93%B1/) |      |
 | 02  |     | [Programmers 입국심사](https://yunsikus.github.io/algorithm/2021/08/23/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC/) |      |
 | 03  |     | [Baekjun-2110 공유기설치](https://yunsikus.github.io/algorithm/2021/08/27/%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%84%A4%EC%B9%98/) |      
+| 04  |     | [Programmers 가사검색](https://yunsikus.github.io/algorithm/2021/08/30/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89/) |      
 
 #### Graph
 
