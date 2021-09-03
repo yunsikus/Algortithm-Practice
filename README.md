@@ -118,6 +118,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [프로그래머스 가장 큰 수](https://yunsikus.github.io/algorithm/2021/07/28/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98/) |      |
+| 02  |     | [프로그래머스 모음사전](https://yunsikus.github.io/algorithm/2021/09/03/%EB%AA%A8%EC%9D%8C%EC%82%AC%EC%A0%84/) |      |
 
 #### 시뮬레이션
 
