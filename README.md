@@ -80,6 +80,7 @@
 | 02  |     | [Baekjun-14503 로봇청소기](https://yunsikus.github.io/algorithm/2021/01/31/%EB%A1%9C%EB%B4%87%EC%B2%AD%EC%86%8C%EA%B8%B0/) |      |
 | 03  |     | [Programmers 타겟넘버](https://yunsikus.github.io/algorithm/2021/07/28/%ED%83%80%EA%B2%9F%EB%84%98%EB%B2%84/) |      |
 | 04  |     | [Programmers 여행경로](https://yunsikus.github.io/algorithm/2021/09/07/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C/) |      |
+| 05  |     | [Baekjun-21943 연산최대로](https://yunsikus.github.io/algorithm/2021/09/14/21943-%EC%97%B0%EC%82%B0%EC%B5%9C%EB%8C%80%EB%A1%9C/) | Greedy     |
 
 #### Greedy
 
