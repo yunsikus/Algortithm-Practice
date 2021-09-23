@@ -88,10 +88,18 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 기지국설치](https://yunsikus.github.io/algorithm/2021/08/01/%EA%B8%B0%EC%A7%80%EA%B5%AD%EC%84%A4%EC%B9%98/) |      |
 
+#### Backtracking
+
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [Baekjun-9663 Nqueen](https://yunsikus.github.io/algorithm/2021/09/24/9663-Nqueen/) |      |
+
+
 #### DP
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 도둑질](https://yunsikus.github.io/algorithm/2021/09/06/%EB%8F%84%EB%91%91%EC%A7%88/) |      |
+| 02  |     | [Baekjun-9084 동전](https://yunsikus.github.io/algorithm/2021/09/24/9084-%EB%8F%99%EC%A0%84/) |      |
 
 #### Binary Search
 
