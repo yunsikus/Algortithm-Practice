@@ -1,32 +1,34 @@
-n = int(input())
+import sys
 
-answer = 0
-col = set()
-diagonal1 = set()
-diagonal2 = set()
+dx = [-1,1,0,0]
+dy = [0,0,-1,1]
 
-def dfs(n,row,col,diagonal1, diagonal2):
-    global answer
-    if row==n:
-        answer += 1
-        return
-    
-    for hubo in range(n): # 매 row마다 가능한 col을 탐색
-        if (hubo in col) or (row+hubo in diagonal1) or (row-hubo in diagonal2):
-            continue
+a,b = map(int, input().split())
+my_mat = []
+for _ in range(a):
+    my_mat.append(list(map(lambda a: ord(a) - 65, input())))
 
-        col.add(hubo)
-        diagonal1.add(row+hubo)
-        diagonal2.add(row-hubo)
+alphabets = [False]*26
+alphabets[my_mat[0][0]] = True
+history = [[False]*b for _ in range(a)]
 
-        dfs(n,row+1,col,diagonal1,diagonal2)
+def dfs(n,x,y):
+    global max_v
+    if n > max_v:
+        max_v = n
 
-        col.remove(hubo)
-        diagonal1.remove(row+hubo)
-        diagonal2.remove(row-hubo)
+    for i in range(4):
+        nx = x + dx[i]
+        ny = y + dy[i]
+        if (0<=nx<a) and (0<=ny<b):
+            if not history[nx][ny]:
+                if not alphabets[my_mat[nx][ny]]:
+                    history[nx][ny] = True
+                    alphabets[my_mat[nx][ny]] = True
+                    dfs(n+1,nx,ny)
+                    history[nx][ny] = False
+                    alphabets[my_mat[nx][ny]] = False
 
-def solution(n):
-    dfs(n, 0, col, diagonal1, diagonal2)
-    return answer
-
-print(solution(n))
+max_v = -sys.maxsize
+dfs(1,0,0)
+print(max) 

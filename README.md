@@ -93,7 +93,7 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjun-9663 Nqueen](https://yunsikus.github.io/algorithm/2021/09/24/9663-Nqueen/) |      |
-
+| 02  |     | [Baekjun-1967 알파벳](https://yunsikus.github.io/algorithm/2021/10/06/1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/) |      |
 
 #### DP
 |  #  |  ☆  | Problem                                                  | Note |
