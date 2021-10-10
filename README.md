@@ -94,6 +94,7 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Baekjun-9663 Nqueen](https://yunsikus.github.io/algorithm/2021/09/24/9663-Nqueen/) |      |
 | 02  |     | [Baekjun-1967 알파벳](https://yunsikus.github.io/algorithm/2021/10/06/1987-%EC%95%8C%ED%8C%8C%EB%B2%B3/) |      |
+| 03  |     | [Baekjun-2023 신기한 소수](https://yunsikus.github.io/algorithm/2021/10/10/2023-%EC%8B%A0%EA%B8%B0%ED%95%9C%EC%86%8C%EC%88%98/) |      |
 
 #### DP
 |  #  |  ☆  | Problem                                                  | Note |
@@ -146,3 +147,4 @@
 | 06  |     | [Programmers 자물쇠와 열쇠](https://yunsikus.github.io/algorithm/2021/04/10/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%EC%97%B4%EC%87%A0/) |      |
 | 07  |     | [Programmers 기둥과 보 설치](https://yunsikus.github.io/algorithm/2021/04/17/%EA%B8%B0%EB%91%A5%EA%B3%BC%EB%B3%B4%EC%84%A4%EC%B9%98/) |      |
 | 08  |     | [Baekjun-21608 상어초등학교](https://yunsikus.github.io/algorithm/2021/05/02/21608_%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/) |      |
+| 09  |     | [Baekjun-17149 이차원 배열과 연산](https://yunsikus.github.io/algorithm/2021/10/10/17140-%EC%9D%B4%EC%B0%A8%EC%9B%90_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EC%97%B0%EC%82%B0-copy/) |      |
