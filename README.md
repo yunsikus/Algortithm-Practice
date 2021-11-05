@@ -101,6 +101,7 @@
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [Programmers 도둑질](https://yunsikus.github.io/algorithm/2021/09/06/%EB%8F%84%EB%91%91%EC%A7%88/) |      |
 | 02  |     | [Baekjun-9084 동전](https://yunsikus.github.io/algorithm/2021/09/24/9084-%EB%8F%99%EC%A0%84/) |      |
+| 03  |     | [Baekjun-9251 LCS](https://yunsikus.github.io/algorithm/2021/10/31/9251-LCS/) |      |
 
 #### Binary Search
 
@@ -148,3 +149,4 @@
 | 07  |     | [Programmers 기둥과 보 설치](https://yunsikus.github.io/algorithm/2021/04/17/%EA%B8%B0%EB%91%A5%EA%B3%BC%EB%B3%B4%EC%84%A4%EC%B9%98/) |      |
 | 08  |     | [Baekjun-21608 상어초등학교](https://yunsikus.github.io/algorithm/2021/05/02/21608_%EC%83%81%EC%96%B4%EC%B4%88%EB%93%B1%ED%95%99%EA%B5%90/) |      |
 | 09  |     | [Baekjun-17149 이차원 배열과 연산](https://yunsikus.github.io/algorithm/2021/10/10/17140-%EC%9D%B4%EC%B0%A8%EC%9B%90_%EB%B0%B0%EC%97%B4%EA%B3%BC_%EC%97%B0%EC%82%B0-copy/) |      |
+| 10  |     | [Baekjun-17144 미세먼지안녕!](https://yunsikus.github.io/algorithm/2021/11/05/17133_%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%EC%95%88%EB%85%95/) |      |
