@@ -22,6 +22,11 @@
 | 02  |     | [Programmers 기능개발](https://yunsikus.github.io/algorithm/2021/06/26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/) |      |
 | 03  |     | [Programmers 프린터](https://yunsikus.github.io/algorithm/2021/07/01/%ED%94%84%EB%A6%B0%ED%84%B0/) |      |
 
+#### LinkedList
+|  #  |  ☆  | Problem                                                  | Note |
+| :-: | :-: | :------------------------------------------------------- | :--- |
+| 01  |     | [Leetcode 234 팰린드롬 연결 리스트](https://yunsikus.github.io/algorithm/2021/12/03/Leetcode-234-%ED%8E%A0%EB%A6%B0%EB%93%9C%EB%A1%AC%EC%97%B0%EA%B2%B0%EB%A6%AC%EC%8A%A4%ED%8A%B8/) |      |
+
 #### [Hash Map](https://yunsikus.github.io/algorithm/2021/07/13/%ED%95%B4%EC%89%AC%EB%A7%B5/)
 
 |  #  |  ☆  | Problem                                                  | Note |
@@ -141,7 +146,8 @@
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
 | 01  |     | [두 수의 합 구하기](https://yunsikus.github.io/algorithm/2021/12/01/%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0/) |      |
-| 02  |     | [빗물 트래핑](https://yunsikus.github.io/algorithm/2021/12/01/%EB%B9%97%EB%AC%BC%ED%8A%B8%EB%9E%98%ED%95%91/) |      |
+| 02  |     | [빗물 트래핑](https://yunsikus.github.io/algorithm/2021/12/01/%EB%B9%97%EB%AC%BC%ED%8A%B8%EB%9E%98%ED%95%91-copy/) |      |
+| 03  |     | [부분 합](https://yunsikus.github.io/algorithm/2021/12/12/%EB%B6%80%EB%B6%84%ED%95%A9/) |      |
 
 #### 시뮬레이션
 
