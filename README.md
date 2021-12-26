@@ -148,9 +148,9 @@
 #### Two Pointer
 |  #  |  ☆  | Problem                                                  | Note |
 | :-: | :-: | :------------------------------------------------------- | :--- |
-| 01  |     | [두 수의 합 구하기](https://yunsikus.github.io/algorithm/2021/12/01/%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0/) |      |
-| 02  |     | [빗물 트래핑](https://yunsikus.github.io/algorithm/2021/12/01/%EB%B9%97%EB%AC%BC%ED%8A%B8%EB%9E%98%ED%95%91-copy/) |      |
-| 03  |     | [부분 합](https://yunsikus.github.io/algorithm/2021/12/12/%EB%B6%80%EB%B6%84%ED%95%A9/) |      |
+| 01  |     | [Leetcode 1 두 수의 합 구하기](https://yunsikus.github.io/algorithm/2021/12/01/%EB%91%90%EC%88%98%EC%9D%98%ED%95%A9%EA%B5%AC%ED%95%98%EA%B8%B0/) |      |
+| 02  |     | [Leetcode 42 빗물 트래핑](https://yunsikus.github.io/algorithm/2021/12/01/%EB%B9%97%EB%AC%BC%ED%8A%B8%EB%9E%98%ED%95%91-copy/) |      |
+| 03  |     | [Baekjun-1806 부분 합](https://yunsikus.github.io/algorithm/2021/12/12/%EB%B6%80%EB%B6%84%ED%95%A9/) |      |
 
 #### 시뮬레이션
 
