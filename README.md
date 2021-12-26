@@ -35,6 +35,7 @@
 | 02  |     | [Programmers 완주하지못한선수](https://yunsikus.github.io/algorithm/2021/08/06/%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%EB%AA%BB%ED%95%9C%EC%84%A0%EC%88%98/) |      |
 | 03  |     | [Programmers 베스트앨범](https://yunsikus.github.io/algorithm/2021/08/17/%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94/) |   
 | 04  |     | [Leetcode 347 Top K Frequent Elements](https://yunsikus.github.io/algorithm/2021/11/16/Leetcode-347/) |        
+| 05  |     | [Leetcode 136 Single Number](https://yunsikus.github.io/algorithm/2021/12/26/Single_Number/) |       
 
 #### [Heap](https://yunsikus.github.io/algorithm/2021/08/03/heap%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/)
 
