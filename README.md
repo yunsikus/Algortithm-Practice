@@ -21,6 +21,7 @@
 | 01  |     | [Baekjun-3190 뱀](https://yunsikus.github.io/algorithm/2021/02/20/3190%EB%B1%80/) |      |
 | 02  |     | [Programmers 기능개발](https://yunsikus.github.io/algorithm/2021/06/26/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C/) |      |
 | 03  |     | [Programmers 프린터](https://yunsikus.github.io/algorithm/2021/07/01/%ED%94%84%EB%A6%B0%ED%84%B0/) |      |
+| 04  |     | [Leetcode 232 Implement Queue Using Stack](https://yunsikus.github.io/algorithm/2021/12/15/Leetcode_implement_queue_using_stack/) |      |
 
 #### LinkedList
 |  #  |  ☆  | Problem                                                  | Note |
